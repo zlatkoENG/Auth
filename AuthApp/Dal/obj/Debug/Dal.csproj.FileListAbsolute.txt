@@ -1,0 +1,7 @@
+C:\Work\Auth\Auth\AuthApp\Dal\bin\Debug\Dal.dll
+C:\Work\Auth\Auth\AuthApp\Dal\bin\Debug\Dal.pdb
+C:\Work\Auth\Auth\AuthApp\Dal\bin\Debug\Model.dll
+C:\Work\Auth\Auth\AuthApp\Dal\bin\Debug\Model.pdb
+C:\Work\Auth\Auth\AuthApp\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Work\Auth\Auth\AuthApp\Dal\obj\Debug\Dal.dll
+C:\Work\Auth\Auth\AuthApp\Dal\obj\Debug\Dal.pdb

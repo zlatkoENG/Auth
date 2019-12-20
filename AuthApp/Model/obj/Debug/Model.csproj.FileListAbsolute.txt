@@ -1,0 +1,5 @@
+C:\Work\Auth\Auth\AuthApp\Model\bin\Debug\Model.dll
+C:\Work\Auth\Auth\AuthApp\Model\bin\Debug\Model.pdb
+C:\Work\Auth\Auth\AuthApp\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Work\Auth\Auth\AuthApp\Model\obj\Debug\Model.dll
+C:\Work\Auth\Auth\AuthApp\Model\obj\Debug\Model.pdb

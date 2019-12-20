@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using Dal;
+using Model;
 
 namespace AuthApp
 {
@@ -11,7 +13,8 @@ namespace AuthApp
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            
+            
         }
     }
 }
